@@ -18,4 +18,5 @@ int main()
     
     printf("%d\n",dArr[4]);
 
+    return 0;
 }
